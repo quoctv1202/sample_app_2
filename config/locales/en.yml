@@ -9,6 +9,7 @@ en:
       this_is: "This is the home page for the"
       ror_tut: "Ruby on rails Tutorials"
       application: "sample application."
+      sign_up: "Sign Up Now"
     help:
       title: "Help"
       head: "Help"
@@ -35,3 +36,22 @@ en:
   layouts:
     application:
       ror_tut_app: "Ruby on Rails Tutorial Sample App"
+    footer:
+      ror_tutorial: "Ruby on Rails Tutorial"
+      the: "The"
+      by: "by"
+      author: "Michael Hartl"
+      about: "About"
+      contact: "Contact"
+      new: "News"
+    header:
+      logo: "Sample App"
+      home: "Home"
+      help: "Help"
+      log_in: "Log in"
+  users:
+    new:
+      title: "Sign up"
+      head: "Sign up"
+      this_will_be: "This will be a signup page for new users."
+      sign_up_title: "Sign up"

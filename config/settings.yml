@@ -5,6 +5,7 @@ static_pages:
   rails_book: "http://www.railstutorial.org/book"
   rails_tut: "http://www.railstutorial.org/"
   screencasts: "http://screencasts.railstutorial.org/"
+  github: "http://github.com/"
 
 layouts:
   rails_tut: "http://www.railstutorial.org/"
