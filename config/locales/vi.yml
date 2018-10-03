@@ -1,0 +1,37 @@
+vi:
+  application_helper:
+    ext_title: "Hướng dẫn tạo app với Ruby on Rails "
+  static_pages:
+    home:
+      welcome: "Chào mừng đế n Sample app"
+      title: "Trang chủ"
+      head: "Sample App"
+      this_is: "Trang chủ của"
+      ror_tut: "các hướng dẫn với Ruby on Rails"
+      application: "ứng dụng mẫu."
+    help:
+      title: "Trợ giúp"
+      head: "Trợ giúp"
+      get_help: "Tìm trợ giúp về Ruby on Rails tại"
+      rails_tutorial: "Mục Trợ giúp của Rails Tutorial"
+      get_help_sample_app: "Để tìm trợ giúp trong việc xây dựng Sample app"
+      ror_book: "Sách Ruby on Rails Tutorial"
+    about:
+      title: "Về chúng tôi"
+      head: "Về chúng tôi"
+      the: ""
+      ror: "Ruby on Rails"
+      book: "sách hướng dẫn"
+      is_a: "là một"
+      screencast_series: "loạt sê-ri"
+      and: "và"
+      to_teach: "để hướng dẫn phát triển web với"
+      description: "Đây là ứng dụng mẫu cho hướng dẫn này."
+    contact:
+      title: "Liên Hệ"
+      head: "Liên Hệ"
+      contact_the: "Liên hệ thêm tại"
+      contact_page: "Trang liên hệ"
+  layouts:
+    application:
+      ror_tut_app: "Hướng dẫn tạo app với Ruby on Rails "

@@ -1,0 +1,12 @@
+enabled_locales: ["en"]
+static_pages:
+  rails_contact: "http://www.railstutorial.org/contact"
+  rails_help: "http://www.railstutorial.org/help"
+  rails_book: "http://www.railstutorial.org/book"
+  rails_tut: "http://www.railstutorial.org/"
+  screencasts: "http://screencasts.railstutorial.org/"
+
+layouts:
+  rails_tut: "http://www.railstutorial.org/"
+  news: "http://news.railstutorial.org/"
+  michael: "http://www.michaelhartl.com/"
