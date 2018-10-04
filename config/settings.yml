@@ -11,3 +11,7 @@ layouts:
   rails_tut: "http://www.railstutorial.org/"
   news: "http://news.railstutorial.org/"
   michael: "http://www.michaelhartl.com/"
+users:
+  name_length: 50
+  email_length: 255
+  pass_length_min: 6
