@@ -35,3 +35,21 @@ vi:
   layouts:
     application:
       ror_tut_app: "Hướng dẫn tạo app với Ruby on Rails "
+    footer:
+      ror_tutorial: "Hướng dẫn làm việc với Ruby on Rails"
+      the: ""
+      by: "bởi"
+      author: "Michael Hartl"
+      about: "Về chúng tôi"
+      contact: "Liên hệ"
+      new: "Tin tức"
+    header:
+      logo: "Sample App"
+      home: "Trang chủ"
+      help: "Trợ giúp"
+      log_in: "Đăng nhập"
+  users:
+    new:
+      title: "Đăng ký"
+      head: "Đăng ký"
+      this_will_be: "Đây sẽ là trang đăng ký cho người dùng mới."
