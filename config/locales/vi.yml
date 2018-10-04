@@ -48,8 +48,19 @@ vi:
       home: "Trang chủ"
       help: "Trợ giúp"
       log_in: "Đăng nhập"
+  shared:
+    error_messages:
+      the_form: "Trong Form có chứa"
+      error: "lỗi"
   users:
     new:
       title: "Đăng ký"
       head: "Đăng ký"
       this_will_be: "Đây sẽ là trang đăng ký cho người dùng mới."
+      confirm: "Xác nhận"
+      create_new: "Tạo tài khoản"
+    create:
+      welcome: "Chào mừng tới Sample App!"
+      failed: "Tạo mới người dùng Thất Bại!!"
+    show:
+      not_found: "Người dùng không tồn tại!"
