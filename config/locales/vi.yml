@@ -48,6 +48,12 @@ vi:
       home: "Trang chủ"
       help: "Trợ giúp"
       log_in: "Đăng nhập"
+      user: "Người dùng"
+      sample_app: "Sample app"
+      profile: "Thông tin cá nhân"
+      log_out: "Đăng xuất"
+      account: "Tài khoản"
+      settings: "Cài đặt"
   shared:
     error_messages:
       the_form: "Trong Form có chứa"
@@ -64,3 +70,12 @@ vi:
       failed: "Tạo mới người dùng Thất Bại!!"
     show:
       not_found: "Người dùng không tồn tại!"
+sessions:
+    new:
+      login_title: "Đăng nhập"
+      login: "Đăng nhập"
+      log_in: "Đăng nhập"
+      new_user: "Người dùng mới?"
+      sign_up_now: "Đăng ký ngay!"
+    create:
+      require_login: "Sai tên đăng nhập hoặc mật khẩu!"
