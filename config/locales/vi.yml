@@ -77,5 +77,6 @@ sessions:
       log_in: "Đăng nhập"
       new_user: "Người dùng mới?"
       sign_up_now: "Đăng ký ngay!"
+      remember_me: "Lưu thông tin đăng nhập trên máy tính"
     create:
       require_login: "Sai tên đăng nhập hoặc mật khẩu!"
